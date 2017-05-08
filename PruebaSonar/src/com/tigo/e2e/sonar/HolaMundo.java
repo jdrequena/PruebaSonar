@@ -13,6 +13,7 @@ public class HolaMundo {
 		try
 		{
 			array [-3]= 24;
+			array [-2]= 25;
 			
 		}
 		catch (ArrayIndexOutOfBoundsException excepcion)
